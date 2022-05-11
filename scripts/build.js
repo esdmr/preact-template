@@ -43,6 +43,10 @@ const buildOptions = {
 	],
 };
 
+if (isProduction) {
+	console.log('Currently in a production environment.');
+}
+
 const result = await build(buildOptions);
 
 if (shouldServe) {
