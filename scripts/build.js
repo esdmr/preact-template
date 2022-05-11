@@ -1,7 +1,7 @@
-import { build, serve } from 'esbuild';
-import htmlPlugin from '@chialab/esbuild-plugin-html';
 import { fileURLToPath } from 'node:url';
 import process from 'node:process';
+import { build, serve } from 'esbuild';
+import htmlPlugin from '@chialab/esbuild-plugin-html';
 
 if (process.argv.includes('--help') || process.argv.includes('-h')) {
 	console.log(`\

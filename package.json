@@ -7,7 +7,9 @@
 		"build:production": "node scripts/build.js --production",
 		"serve": "node scripts/build.js --serve",
 		"serve:production": "node scripts/build.js --production --serve",
-		"watch": "node scripts/build.js --watch"
+		"watch": "node scripts/build.js --watch",
+		"lint": "xo",
+		"lint:fix": "xo --fix"
 	},
 	"dependencies": {
 		"preact": "10.7.2"

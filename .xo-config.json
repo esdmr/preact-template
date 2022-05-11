@@ -41,9 +41,7 @@
 			"error",
 			"always"
 		],
-		"unicorn/prefer-json-parse-buffer": [
-			"off"
-		]
+		"unicorn/prefer-json-parse-buffer": "off"
 	},
 	"overrides": [
 		{
@@ -52,7 +50,10 @@
 		},
 		{
 			"files": "**.tsx",
-			"extends": "./.xo-config.ts.json"
+			"extends": "./.xo-config.ts.json",
+			"rules": {
+				"@typescript-eslint/no-confusing-void-expression": "off"
+			}
 		},
 		{
 			"files": "**.mts",
