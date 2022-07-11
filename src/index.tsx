@@ -1,4 +1,5 @@
 import { h, render } from 'preact';
+// eslint-disable-next-line n/file-extension-in-import
 import { useState } from 'preact/hooks';
 
 const App = () => {
