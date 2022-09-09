@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 packageExtensionsChecksum: c6269d4d2b8f53749e9a6ff01733da3a
 
 specifiers:
-  '@chialab/esbuild-plugin-html': 0.16.1
+  '@chialab/esbuild-plugin-html': 0.17.0
   '@types/node': 17.0.31
   '@typescript/lib-dom': npm:@types/web@0.0.72
   esbuild: 0.14.38
@@ -14,7 +14,7 @@ dependencies:
   preact: 10.7.2
 
 devDependencies:
-  '@chialab/esbuild-plugin-html': 0.16.1
+  '@chialab/esbuild-plugin-html': 0.17.0
   '@types/node': 17.0.31
   '@typescript/lib-dom': /@types/web/0.0.72
   esbuild: 0.14.38
@@ -43,31 +43,31 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@chialab/esbuild-plugin-html/0.16.1:
-    resolution: {integrity: sha512-iigORoLtiJODnZxQBaIwH3/ile/0Xy3JfIA65kHZXOj6IB9GFoXlw7DGt7Jk8GRz2MaQY4xfznrvXIDvoy4rJw==}
+  /@chialab/esbuild-plugin-html/0.17.0:
+    resolution: {integrity: sha512-a6TzUyT1VWb9wp71bpsd5+69Bk3BMCtWv2RSkzCYGV0AdKF8EVl/4BxKqGddz4rOFZFeqc4Ij08jqCnYFxymRA==}
     engines: {node: '>=13'}
     dependencies:
-      '@chialab/esbuild-rna': 0.16.1
-      '@chialab/node-resolve': 0.16.0
+      '@chialab/esbuild-rna': 0.17.2
+      '@chialab/node-resolve': 0.17.0
     dev: true
 
-  /@chialab/esbuild-rna/0.16.1:
-    resolution: {integrity: sha512-T3SxOqrWtGri5u5S1Q8iT9augXNOppu6AUF9UdqAlg5Pu7oTntR+1wKa12kKRXKjcTt3nvUJaVzIAmyy3tvGPw==}
+  /@chialab/esbuild-rna/0.17.2:
+    resolution: {integrity: sha512-L6VRLdyBkTJPq+wpGVWi6IIM/jdstDLjz88m/AqWq0MGaS9YlKYJ5IHhYAAc6+EZQG+u/Oh8yfl1Bj35BnKgpg==}
     engines: {node: '>=13'}
     dependencies:
-      '@chialab/estransform': 0.16.0
-      '@chialab/node-resolve': 0.16.0
+      '@chialab/estransform': 0.17.1
+      '@chialab/node-resolve': 0.17.0
     dev: true
 
-  /@chialab/estransform/0.16.0:
-    resolution: {integrity: sha512-Zq7p2W8GY+onVl2Kgyj4lu+/T1bvV73p4FFJH6nI8MScQdDORCgkqWw0lnq6xBLbiTRqGDRdochrX5qNnvKoDA==}
+  /@chialab/estransform/0.17.1:
+    resolution: {integrity: sha512-sggpbjQ8RQyEDhbC2DoNK3DpTvcK9Qr+VtTg70uxVHNkVbyiZcY2CH6wZGlKJEP+duAx7xQVQ0lQU4QySIluLQ==}
     engines: {node: '>=13'}
     dependencies:
       '@parcel/source-map': 2.0.2
     dev: true
 
-  /@chialab/node-resolve/0.16.0:
-    resolution: {integrity: sha512-d+BM1rWWjTwPKtRe7UCe1vvBrr3fniZzORW+u2E47Syyy+WzBmtDCeMHGv+IAEqrARgpZQ2D3rAU/2n75JmYGA==}
+  /@chialab/node-resolve/0.17.0:
+    resolution: {integrity: sha512-u9VwO/0djjXsM70aH/Wrx0BrXjtjhfNOxaDks32xa1mZP9T0CXZ0be5Sv3hXI9g5UeJbfvCyFJS2hfJEu7Ifgg==}
     engines: {node: '>=13'}
     dev: true
 
