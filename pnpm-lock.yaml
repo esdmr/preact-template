@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 packageExtensionsChecksum: c6269d4d2b8f53749e9a6ff01733da3a
 
 specifiers:
-  '@chialab/esbuild-plugin-html': 0.17.1
+  '@chialab/esbuild-plugin-html': 0.17.2
   '@types/node': 17.0.31
   '@typescript/lib-dom': npm:@types/web@0.0.77
   esbuild: 0.15.12
@@ -14,7 +14,7 @@ dependencies:
   preact: 10.7.2
 
 devDependencies:
-  '@chialab/esbuild-plugin-html': 0.17.1
+  '@chialab/esbuild-plugin-html': 0.17.2
   '@types/node': 17.0.31
   '@typescript/lib-dom': /@types/web/0.0.77
   esbuild: 0.15.12
@@ -43,8 +43,8 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@chialab/esbuild-plugin-html/0.17.1:
-    resolution: {integrity: sha512-X/Zqrgb7SeBYEwMonG+C8N+UHz+seCOvqRvaZAzQW9i9ge+a50oygjb6RAE2aFgc+phPfJakBaLYpxgPwj9vrA==}
+  /@chialab/esbuild-plugin-html/0.17.2:
+    resolution: {integrity: sha512-IoPRjmiLzoOzJBCJ5sFR5fEjYfQ6EMwuWL1VhZrw1IyDCK34zIqOwmkKk49Tw84VHGkPy/+RUsu8nNP1Ax6liQ==}
     engines: {node: '>=13'}
     dependencies:
       '@chialab/esbuild-rna': 0.17.3
