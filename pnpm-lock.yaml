@@ -5,7 +5,7 @@ packageExtensionsChecksum: c6269d4d2b8f53749e9a6ff01733da3a
 specifiers:
   '@chialab/esbuild-plugin-html': 0.17.2
   '@types/node': 17.0.31
-  '@typescript/lib-dom': npm:@types/web@0.0.83
+  '@typescript/lib-dom': npm:@types/web@0.0.84
   esbuild: 0.16.1
   preact: 10.7.2
   xo: 0.53.1
@@ -16,7 +16,7 @@ dependencies:
 devDependencies:
   '@chialab/esbuild-plugin-html': 0.17.2
   '@types/node': 17.0.31
-  '@typescript/lib-dom': /@types/web/0.0.83
+  '@typescript/lib-dom': /@types/web/0.0.84
   esbuild: 0.16.1
   xo: 0.53.1
 
@@ -373,8 +373,8 @@ packages:
     resolution: {integrity: sha512-21cFJr9z3g5dW8B0CVI9g2O9beqaThGQ6ZFBqHfwhzLDKUxaqTIy3vnfah/UPkfOiF2pLq+tGz+W8RyCskuslw==}
     dev: true
 
-  /@types/web/0.0.83:
-    resolution: {integrity: sha512-34gEfH9go9FHgdCmKnH1bZuvu8FC/+9Oug5lu1QiZN/Xpv2tYTkkkUWZ3Wh+pn4VN1ge/6tFc5oDzVeAsSNqWA==}
+  /@types/web/0.0.84:
+    resolution: {integrity: sha512-FgWNoeTgX2GRAJzktyp/pqbwrwL7ifKE7FAxo4CA/mayBomylWKpSe4jaY8UqnrAFyHExfANP8DI8s+aHqaRgQ==}
     dev: true
 
   /@typescript-eslint/eslint-plugin/5.46.0_km33x45pcsbpyqg3u2sxl5ixc4:
