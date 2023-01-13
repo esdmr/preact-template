@@ -17,7 +17,7 @@
 	"devDependencies": {
 		"@chialab/esbuild-plugin-html": "0.17.2",
 		"@types/node": "17.0.31",
-		"@typescript/lib-dom": "npm:@types/web@0.0.85",
+		"@typescript/lib-dom": "npm:@types/web@0.0.86",
 		"esbuild": "0.16.10",
 		"xo": "0.53.1"
 	},
