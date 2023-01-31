@@ -21,7 +21,7 @@
 		"esbuild": "0.16.16",
 		"xo": "0.53.1"
 	},
-	"packageManager": "pnpm@7.24.0",
+	"packageManager": "pnpm@7.24.2",
 	"pnpm": {
 		"packageExtensions": {
 			"eslint-import-resolver-webpack": {
