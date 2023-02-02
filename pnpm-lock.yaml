@@ -7,11 +7,11 @@ specifiers:
   '@types/node': 17.0.31
   '@typescript/lib-dom': npm:@types/web@0.0.87
   esbuild: 0.16.17
-  preact: 10.7.2
+  preact: 10.11.3
   xo: 0.53.1
 
 dependencies:
-  preact: 10.7.2
+  preact: 10.11.3
 
 devDependencies:
   '@chialab/esbuild-plugin-html': 0.17.2
@@ -2421,8 +2421,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /preact/10.7.2:
-    resolution: {integrity: sha512-GLjn0I3r6ka+NvxJUppsVFqb4V0qDTEHT/QxHlidPuClGaxF/4AI2Qti4a0cv3XMh5n1+D3hLScW10LRIm5msQ==}
+  /preact/10.11.3:
+    resolution: {integrity: sha512-eY93IVpod/zG3uMF22Unl8h9KkrcKIRs2EGar8hwLZZDU1lkjph303V9HZBwufh2s736U6VXuhD109LYqPoffg==}
     dev: false
 
   /prelude-ls/1.2.1:
